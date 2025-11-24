@@ -1,0 +1,20 @@
+===== DAILY FORWARD SHARPE + RETURN STABILITY =====
+
+--- MODEL PERFORMANCE STABILITY ---
+Mean return (avg across offsets): 0.04103285381075776
+Std of returns (avg across offsets): 0.057590338269210124
+Mean Sharpe: 0.7717599901101556
+Std Sharpe : 0.309057372926637
+Sharpe min : 0.31523891094259504
+Sharpe max : 1.8731056969831787
+Stability (Sharpe mean/std): 2.497141494472149
+
+--- SPY BASELINE (ALIGNED) ---
+SPY mean return: 0.04711746196939276
+SPY std return : 0.06536558253455277
+SPY Sharpe     : nan
+
+===== CUMULATIVE RETURNS (OFFSET 0) =====
+Model cumulative return: 1.3011887661834751
+SPY cumulative return:   1.3778179581264023
+
